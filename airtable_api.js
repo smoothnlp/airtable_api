@@ -373,3 +373,4 @@ async function sync_to_wordpress(lang, author_id_column, record_id, table_id, ba
 }
 
 console.log("airtable api loaded")
+console.log((typeof sync_to_wordpress))
