@@ -371,3 +371,5 @@ async function sync_to_wordpress(lang, author_id_column, record_id, table_id, ba
         throw error;
     }
 }
+
+console.log("airtable api loaded")
